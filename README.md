@@ -27,8 +27,10 @@ The goal of this project is to reduce manual work and improve lead engagement us
 
 ## 📸 Screenshots
 
-![Funnel](Screenshot 2026-04-29 173436.png)
+## 📸 Screenshots
 
-![Email](Screenshot 2026-04-29 173503.png)
+![Funnel](funnel.png)
 
-![Wait Step](Screenshot 2026-04-29 173555.png)
+![Email](email.png)
+
+![Wait Step](wait.png)
