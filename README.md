@@ -30,10 +30,9 @@ This funnel captures leads through a landing page and automatically starts an em
 1. User submits form on landing page  
 2. Lead is saved in GoHighLevel  
 3. Welcome email is sent instantly  
-4. After 1 day, a follow-up email is sent  
-5. Automation helps increase engagement and conversions  
-## 📸 Screenshots
+4. After 1 day, a follow-up email is sent  --
 
 ![Funnel](./images/funnel.png)
 ![Workflow](./images/workflow.png)
 ![Email](./images/email.png)
+--
