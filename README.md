@@ -24,9 +24,6 @@ This project is a lead automation system built using GoHighLevel. It captures us
 ## 🎯 Purpose
 The goal of this project is to reduce manual work and improve lead engagement using automation
 
-
-## 📸 Screenshots
-
 ## 📸 Screenshots
 
 ![Funnel](funnel.png)
@@ -34,3 +31,13 @@ The goal of this project is to reduce manual work and improve lead engagement us
 ![Email](email.png)
 
 ![Wait Step](wait.png)
+
+## 🔄 Funnel Flow
+
+This funnel captures leads through a landing page and automatically starts an email sequence.
+
+1. User submits form on landing page  
+2. Lead is saved in GoHighLevel  
+3. Welcome email is sent instantly  
+4. After 1 day, a follow-up email is sent  
+5. Automation helps increase engagement and conversions  
