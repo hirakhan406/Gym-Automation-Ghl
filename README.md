@@ -17,7 +17,7 @@ This project is a lead automation system built using GoHighLevel. It captures us
 
 ![Workflow](Screenshot%202026-05-01%20154654.png)
 
-![Email](Screenshot%202026-05-01%20154718.png)
+![Email](Screenshot%202026-05-01%20154718.png)## 📸 Screenshots
 
 ![Wait Step](Screenshot%202026-05-01%20154747.png)
 
@@ -31,7 +31,12 @@ This funnel captures leads through a landing page and automatically starts an em
 2. Lead is saved in GoHighLevel  
 3. Welcome email is sent instantly  
 4. After 1 day, a follow-up email is sent  --
-![Funnel](./Screenshot 2026-05-01 154718.png)
-![Workflow](./Screenshot 2026-05-01 154747.png)
-![Email](./Screenshot 2026-05-01 154654.png)
 
+ 
+## 📸 Screenshots
+
+![Funnel](./Screenshot 2026-05-01 154718.png)
+
+![Workflow](./Screenshot 2026-05-01 154747.png)
+
+![Email](./Screenshot 2026-05-01 154654.png)
