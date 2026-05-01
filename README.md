@@ -22,12 +22,11 @@ This project is a lead automation system built using GoHighLevel. It captures us
 ![Wait Step](Screenshot%202026-05-01%20154747.png)
 
 ## 🎯 Purpose
-The goal of this project is to reduce manual work and improve lead engagement using automation.
-
+The goal of this project is to reduce manual work and improve lead engagement using automation
 ## 📸 Screenshots
 
-![Funnel](Screenshot 2026-04-29 173436.png)
+![Funnel](funnel.png)
 
-![Email](Screenshot 2026-04-29 173503.png)
+![Email](email.png)
 
-![Wait Step](Screenshot 2026-04-29 173555.png)
+![Wait Step](wait.png)
