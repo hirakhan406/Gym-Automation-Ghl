@@ -14,7 +14,11 @@ This project is a lead automation system built using GoHighLevel. It captures us
 - Email Automation
 
 ## 📸 Screenshots
-(Add your workflow screenshots here)
+## 📸 Screenshots
+
+![Workflow](Screenshot 2026-05-01 154654.png)
+![Email](Screenshot 2026-05-01 154718.png)
+![Wait Step](Screenshot 2026-05-01 154747.png)
 
 ## 🎯 Purpose
 The goal of this project is to reduce manual work and improve lead engagement using automation.
